@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFunNews</string>
+    <string name="exception_fail_api_msg">咪咕酱施法被中断，召唤失败o(╥﹏╥)o</string>
+    <string name="exception_fail_net_msg">网络君累趴了，等会儿再试试...</string>
+    <string name="exception_none_net_msg">网络君被吃了，怎么召唤得出？</string>
+    <style name="ProgressDialogStyle" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFrame">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>

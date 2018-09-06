@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFunNews</string>
+    <!-- 异常提示语 -->
+    <string name="exception_none_net_msg">网络君被吃了，怎么召唤得出？</string>
+    <string name="exception_fail_net_msg">网络君累趴了，等会儿再试试...</string>
+    <string name="exception_fail_api_msg">咪咕酱施法被中断，召唤失败o(╥﹏╥)o</string>
+
+</resources>
